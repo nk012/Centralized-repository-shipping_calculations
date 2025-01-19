@@ -1,7 +1,5 @@
 # Here is a new update by nk012
 
-# Here is another update by nk012
-
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
